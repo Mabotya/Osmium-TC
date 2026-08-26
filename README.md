@@ -14,6 +14,7 @@ Osmium TCは、**TRAIN CREW**の楽しみを拡張するためのサードパー
 
 ## 主な機能
 
+- ソフト内からのTRAIN CREWの起動
 - カスタムサウンドに関する設定をより簡単に
 - 作曲や編集した音声をTRAIN CREWへ簡単に反映
 - 音声加工による臨場感のある肉声放送
@@ -67,6 +68,7 @@ Download the latest version from the "Releases" section on the right side of thi
 
 ## Main Features
 
+- Launch TRAIN CREW directly from the application
 - Easier setup and management of custom sounds
 - Easily apply composed or edited audio to TRAIN CREW
 - Create more realistic microphone announcements with audio processing
