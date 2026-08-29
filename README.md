@@ -42,7 +42,7 @@ Osmium TCは、**TRAIN CREW**の楽しみを拡張するためのサードパー
 
 不具合や機能要望は、以下のページから送信できます。
 
-**[Osmium TC 不具合報告・要望フォーム](https://o-nnect.com/tcsh%e5%a0%b1%e5%91%8a/)**
+**[Osmium TC 不具合報告・要望フォーム](https://support.o-nnect.com/Osmium/)**
 
 ## 配布について
 
@@ -96,7 +96,7 @@ If you cannot verify the source of the application or have any concerns, do not 
 
 You can report bugs or submit feature requests using the page below.
 
-**[Osmium TC Bug Report & Feature Request Form](https://o-nnect.com/tcsh%e5%a0%b1%e5%91%8a/)**
+**[Osmium TC Bug Report & Feature Request Form](https://support.o-nnect.com/Osmium/)**
 
 ## Redistribution
 
